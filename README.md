@@ -6,7 +6,7 @@ If that's the case, given our workflow, there are a few steps you need to take t
 
 Remember, you're working on a forked version of a lab that lives on the flatiron-school-ironboard organization. You'll have cloned that fork onto your machine.
 
-When we push changes to the version of the lab on flatiron-school-ironboard organization, a **pull request** will be opened on your fork. You'll see a 1 next to "Pull Requests" on the repo's page that looks something like this:
+When we push changes to the version of the lab on flatiron-school-ironboard organization, a **pull request** will be opened on your fork. You'll see a 1 next to "Pull Requests" on your fork repo's page that looks something like this:
 
 ![PR Icon](https://s3-us-west-2.amazonaws.com/readme-photos/pull-requests+icon.png)
 
