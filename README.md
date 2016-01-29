@@ -20,4 +20,4 @@ Next, you'll need to bring those changes down to your local repository.
 
 From the lab directory on your machine, run `git pull origin master`, which will bring down those changes.
 
-<a href='https://learn.co/lessons/remote-intro-incorporating-changes-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/remote-intro-incorporating-changes-readme' title='Incorporating Changes'>Incorporating Changes</a> on Learn.co and start learning to code for free.</p>
